@@ -2,5 +2,4 @@
 
 pour lire le cours : 
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/jcr-lyxor/DIFIQ/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcr-lyxor/DIFIQ/master)
