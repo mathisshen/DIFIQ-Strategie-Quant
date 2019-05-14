@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - cufflinks-py
   - seaborn
   - pip:
     - jupyter-contrib-nbextensions
+    - cufflinks==0.14.6

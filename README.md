@@ -2,8 +2,5 @@
 
 pour lire le cours : 
 
-Partie 1 & 2 
-https://nbviewer.jupyter.org/github/jcr-lyxor/DIFIQ/blob/master/GQuant.ipynb
-
-Partie 3
-https://nbviewer.jupyter.org/github/jcr-lyxor/DIFIQ/blob/master/GQuant-2.ipynb
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jcr-lyxor/DIFIQ/master
