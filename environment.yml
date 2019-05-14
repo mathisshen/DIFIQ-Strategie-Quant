@@ -8,5 +8,6 @@ dependencies:
   - bokeh
   - rise
   - cufflinks-py
+  - seaborn
   - pip:
     - jupyter-contrib-nbextensions
