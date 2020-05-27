@@ -6,8 +6,7 @@ Ce repo contient les ressources pour le cours de Gestion Quantitative.
 Le cours est disponible ici : 
 ------------------
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12xNHDOTPwC643KdiX8vHaVTzJbI4r8Ey?usp=sharing]
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12xNHDOTPwC643KdiX8vHaVTzJbI4r8Ey?usp=sharing)
 
 Quelques references
 ------------------
