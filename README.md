@@ -3,10 +3,10 @@ DIFIQ
 
 Ce repo contient les ressources pour le cours de Gestion Quantitative.
 
-Pour lire le cours en dynamique : 
+Le cours est disponible ici : 
 ------------------
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcr-lyxor/DIFIQ/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12xNHDOTPwC643KdiX8vHaVTzJbI4r8Ey?usp=sharing]
 
 
 Quelques references
